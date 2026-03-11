@@ -1,0 +1,9 @@
+langchain 
+langchain-openai
+langchain-google-genai
+langgraph 
+langchain-community 
+fpdf
+pypdf
+pandas
+streamlit
